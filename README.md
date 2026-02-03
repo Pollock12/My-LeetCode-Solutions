@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3637-trionic-array-i](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
 | ------- |
