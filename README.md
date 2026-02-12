@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -65,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+## String
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
