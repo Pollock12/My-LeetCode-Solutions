@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0799-champagne-tower](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0799-champagne-tower) |
 | [3640-trionic-array-ii](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 ## Hash Table
 |  |
