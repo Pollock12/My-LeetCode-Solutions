@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0761-special-binary-string](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
@@ -125,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
