@@ -1,10 +1,9 @@
 class Solution {
 public:
     bool ok(int mountainHeight, vector<int>& workerTimes, long long mid) {
-        int n = workerTimes.size();
         int tot = 0;
-        for (int i = 0; i < n; i++) {
-            long long p = sqrt(((2 * mid) / workerTimes[i]) + 0.25) - 0.5;
+        for (auto t:workerTimes) {
+            long long p = sqrt(((2 * mid) / t) + 0.25) - 0.5;
             tot += p;
             if(tot>=mountainHeight)return true;
         }
