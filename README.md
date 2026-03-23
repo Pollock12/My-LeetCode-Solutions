@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0799-champagne-tower](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0799-champagne-tower) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3640-trionic-array-ii](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 ## Hash Table
 |  |
