@@ -14,28 +14,36 @@ public:
         ListNode* pre = head;
         ListNode* curr = head->next;
         int position = 1;
-        vector<int> positionList;
+        int prev_cri = -1, curr_cri = -1, first_cri = -1;
+        int mn = 1e9, mx = -1;
 
         while (curr->next != nullptr) {
             ListNode* next = curr->next;
             if ((curr->val > pre->val && curr->val > next->val) ||
                 (curr->val < pre->val && curr->val < next->val)) {
-                positionList.push_back(position);
+                if (prev_cri == -1) {
+                    prev_cri = position;
+                } else if (curr_cri == -1) {
+                    curr_cri = position;
+                } else {
+                    prev_cri = curr_cri;
+                    curr_cri = position;
+                }
+                if (first_cri == -1) {
+                    first_cri = position;
+                }
+                if (prev_cri != -1 && curr_cri != -1)
+                    mn = min(mn, curr_cri - prev_cri);
             }
             pre = curr;
             curr = next;
             position++;
         }
-        if (positionList.size() < 2) {
-            return {-1, -1};
-        } else {
-            int mn=positionList[1]-positionList[0], mx;
-            int n = positionList.size();
-            for (int i = 1; i < n; i++) {
-                mn = min(mn, positionList[i] - positionList[i - 1]);
-            }
-            mx = positionList[n - 1] - positionList[0];
-            return {mn, mx};
+        if (mn == 1e9)
+            mn = -1;
+        if (first_cri != -1 && curr_cri != -1) {
+            mx = curr_cri - first_cri;
         }
+        return {mn, mx};
     }
 };
