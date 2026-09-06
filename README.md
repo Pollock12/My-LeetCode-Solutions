@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0799-champagne-tower](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0799-champagne-tower) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0761-special-binary-string](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
