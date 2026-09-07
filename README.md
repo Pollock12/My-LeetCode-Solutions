@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0799-champagne-tower](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0799-champagne-tower) |
+| [0940-distinct-subsequences-ii](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0761-special-binary-string](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0761-special-binary-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
