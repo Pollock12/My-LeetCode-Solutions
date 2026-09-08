@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3870-count-commas-in-range](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Rolling Hash
