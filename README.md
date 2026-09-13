@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
