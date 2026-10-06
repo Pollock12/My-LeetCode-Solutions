@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0761-special-binary-string](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0761-special-binary-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -243,9 +245,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Pollock12/My-LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
